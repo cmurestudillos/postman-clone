@@ -1,7 +1,10 @@
 {
-  "name": "postman-clone-react",
+  "name": "postman-clone",
   "version": "1.0.0",
   "private": true,
+  "author": "Carlos Mur",
+  "license": "MIT",
+  "description": "Clon de la famosa herramienta para probar diseñar, construir e iterar API's.",
   "dependencies": {
     "@codemirror/basic-setup": "^0.18.2",
     "@codemirror/commands": "^0.18.3",
