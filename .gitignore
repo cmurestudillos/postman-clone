@@ -1,0 +1,6 @@
+# React
+node_modules/
+package-lock.json
+build/
+dist/
+.vercel
